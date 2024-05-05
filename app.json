@@ -1,31 +1,31 @@
 {
-  "name": "Xlicon-MD",
+  "name": "Valeska",
   "version": "3.0.5",
-  "description": "Xlicon-MD, A modular advanced wabot",
-  "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
+  "description": "Valeska, A modular advanced wabot",
+  "logo": "https://static.wikia.nocookie.net/marvel_dc/images/b/b2/Jerome_Valeska_Gotham_005.jpg/revision/latest?cb=20231001182747",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Valeska", "wabot", "termux-bot", "sc-bot"],
+  "repository": "https://github.com/mhxii/XLICON-V3-MD",
   "stack": "container",
   "env": {
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "221771971061"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "VALESKA"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "HRKU-8e491477-8fa0-4b2f-962a-d31b72e28050"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "whatsappbotval"
     },
     "PREFIX": {
       "description": "Set Your Prefix Here",
@@ -35,22 +35,22 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "Bot_de_Valeska"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "VALESKA_BOT"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "ＭＡＤＥ   ＢＹ   VALESKA"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "221771971061"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
